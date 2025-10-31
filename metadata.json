@@ -1,0 +1,20 @@
+{
+  "KPlugin": {
+    "Id": "org.kde.plasma.terminalbuddy",
+    "Name": "Terminal Buddy",
+    "Description": "A floating desktop terminal widget with Konsole integration.",
+    "Icon": "utilities-terminal",
+    "Version": "1.0",
+    "Category": "Utility",
+    "License": "GPLv3",
+    "Authors": [
+      {
+        "Name": "Joanne Pergamali"
+      }
+    ]
+  },
+  "KPackageStructure": "Plasma/Applet",
+  "X-Plasma-API": "declarativeappletscript",
+  "X-Plasma-MainScript": "ui/main.qml",
+  "X-KDE-PlasmaCompatVersion": "6.0"
+}
